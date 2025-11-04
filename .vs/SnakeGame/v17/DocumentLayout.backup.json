@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\ltrinh win\\SnakeGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B06A9F1-E5BB-4B0D-BA50-EB4EE7AB1061}|SnakeGame\\SnakeGame.csproj|k:\\ltrinh win\\snakegame\\snakegame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B06A9F1-E5BB-4B0D-BA50-EB4EE7AB1061}|SnakeGame\\SnakeGame.csproj|solutionrelative:snakegame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B06A9F1-E5BB-4B0D-BA50-EB4EE7AB1061}|SnakeGame\\SnakeGame.csproj|K:\\ltrinh win\\SnakeGame\\snakegame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B06A9F1-E5BB-4B0D-BA50-EB4EE7AB1061}|SnakeGame\\SnakeGame.csproj|solutionrelative:snakegame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B06A9F1-E5BB-4B0D-BA50-EB4EE7AB1061}|SnakeGame\\SnakeGame.csproj|K:\\ltrinh win\\SnakeGame\\snakegame\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B06A9F1-E5BB-4B0D-BA50-EB4EE7AB1061}|SnakeGame\\SnakeGame.csproj|solutionrelative:snakegame\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B06A9F1-E5BB-4B0D-BA50-EB4EE7AB1061}|SnakeGame\\SnakeGame.csproj|K:\\ltrinh win\\SnakeGame\\snakegame\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B06A9F1-E5BB-4B0D-BA50-EB4EE7AB1061}|SnakeGame\\SnakeGame.csproj|solutionrelative:snakegame\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B06A9F1-E5BB-4B0D-BA50-EB4EE7AB1061}|SnakeGame\\SnakeGame.csproj|K:\\ltrinh win\\SnakeGame\\snakegame\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B06A9F1-E5BB-4B0D-BA50-EB4EE7AB1061}|SnakeGame\\SnakeGame.csproj|solutionrelative:snakegame\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B06A9F1-E5BB-4B0D-BA50-EB4EE7AB1061}|SnakeGame\\SnakeGame.csproj|K:\\ltrinh win\\SnakeGame\\snakegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B06A9F1-E5BB-4B0D-BA50-EB4EE7AB1061}|SnakeGame\\SnakeGame.csproj|solutionrelative:snakegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B06A9F1-E5BB-4B0D-BA50-EB4EE7AB1061}|SnakeGame\\SnakeGame.csproj|K:\\ltrinh win\\SnakeGame\\snakegame\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B06A9F1-E5BB-4B0D-BA50-EB4EE7AB1061}|SnakeGame\\SnakeGame.csproj|solutionrelative:snakegame\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B06A9F1-E5BB-4B0D-BA50-EB4EE7AB1061}|SnakeGame\\SnakeGame.csproj|K:\\ltrinh win\\SnakeGame\\snakegame\\cricle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B06A9F1-E5BB-4B0D-BA50-EB4EE7AB1061}|SnakeGame\\SnakeGame.csproj|solutionrelative:snakegame\\cricle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "K:\\ltrinh win\\SnakeGame\\SnakeGame\\Form2.cs",
+              "RelativeDocumentMoniker": "SnakeGame\\Form2.cs",
+              "ToolTip": "K:\\ltrinh win\\SnakeGame\\SnakeGame\\Form2.cs",
+              "RelativeToolTip": "SnakeGame\\Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T02:40:25.241Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "K:\\ltrinh win\\SnakeGame\\SnakeGame\\Form1.cs",
+              "RelativeDocumentMoniker": "SnakeGame\\Form1.cs",
+              "ToolTip": "K:\\ltrinh win\\SnakeGame\\SnakeGame\\Form1.cs",
+              "RelativeToolTip": "SnakeGame\\Form1.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwD8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T05:43:06.848Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3fd5e0cc-709a-4f8c-94c3-7f0f8dff5bb2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "K:\\ltrinh win\\SnakeGame\\SnakeGame\\Form2.cs",
+              "RelativeDocumentMoniker": "SnakeGame\\Form2.cs",
+              "ToolTip": "K:\\ltrinh win\\SnakeGame\\SnakeGame\\Form2.cs [Design]",
+              "RelativeToolTip": "SnakeGame\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T02:38:08.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "K:\\ltrinh win\\SnakeGame\\SnakeGame\\Program.cs",
+              "RelativeDocumentMoniker": "SnakeGame\\Program.cs",
+              "ToolTip": "K:\\ltrinh win\\SnakeGame\\SnakeGame\\Program.cs",
+              "RelativeToolTip": "SnakeGame\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T16:18:34.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Setting.cs",
+              "DocumentMoniker": "K:\\ltrinh win\\SnakeGame\\SnakeGame\\Setting.cs",
+              "RelativeDocumentMoniker": "SnakeGame\\Setting.cs",
+              "ToolTip": "K:\\ltrinh win\\SnakeGame\\SnakeGame\\Setting.cs",
+              "RelativeToolTip": "SnakeGame\\Setting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T16:00:51.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "K:\\ltrinh win\\SnakeGame\\SnakeGame\\Form1.cs",
+              "RelativeDocumentMoniker": "SnakeGame\\Form1.cs",
+              "ToolTip": "K:\\ltrinh win\\SnakeGame\\SnakeGame\\Form1.cs [Design]",
+              "RelativeToolTip": "SnakeGame\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T15:49:15.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "K:\\ltrinh win\\SnakeGame\\SnakeGame\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "SnakeGame\\Form1.Designer.cs",
+              "ToolTip": "K:\\ltrinh win\\SnakeGame\\SnakeGame\\Form1.Designer.cs",
+              "RelativeToolTip": "SnakeGame\\Form1.Designer.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAnwE0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T04:10:10.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "cricle.cs",
+              "DocumentMoniker": "K:\\ltrinh win\\SnakeGame\\SnakeGame\\cricle.cs",
+              "RelativeDocumentMoniker": "SnakeGame\\cricle.cs",
+              "ToolTip": "K:\\ltrinh win\\SnakeGame\\SnakeGame\\cricle.cs",
+              "RelativeToolTip": "SnakeGame\\cricle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T16:00:17.528Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
