@@ -10,7 +10,7 @@ using System.Media;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-// Hello
+// Hello world
 namespace SnakeGame
 {
     public partial class Form1 : Form
